@@ -9,5 +9,3 @@ parameters = [
 
 
 ]
-MONGO=true
-mongo-dev.naveendevops2.online
