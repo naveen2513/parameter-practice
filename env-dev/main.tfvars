@@ -8,7 +8,7 @@ parameters = [
   { name = "dev.catalogue.mongo", value = "MONGO=true"},
   { name = "dev.catalogue.mongo_url", value = "mongodb://mongodb-dev.naveendevops2.online:27017/catalogue"},
   { name = "dev.user.redis_host", value = "redis-dev.naveendevops2.online"},
-  { name = "dev.user.mongo_url", value = "mongodb://mongo-dev.naveendevops2.online:27017/users"},
+  { name = "dev.user.mongo_url", value = "mongodb://mongodb-dev.naveendevops2.online:27017/users"},
   { name = "dev.cart.redis_host", value = "redis-dev.naveendevops2.online"},
   { name = "dev.cart.catalogue_host", value = "catalogue-dev.naveendevops2.online"},
   { name = "dev.cart.catalogue_port", value = "8080"},
