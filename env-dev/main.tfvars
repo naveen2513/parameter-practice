@@ -27,6 +27,4 @@ parameters = [
   { name = "dev.payment.amqp_pass", value = "roboshop123"}
 
 
-
-
 ]
