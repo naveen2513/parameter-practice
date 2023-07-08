@@ -24,7 +24,7 @@ parameters = [
   { name = "dev.payment.user_port", value = "8080"},
   { name = "dev.payment.amqp_host", value = "rabbitmq-dev.naveendevops2.online"},
   { name = "dev.payment.amqp_user", value = "roboshop"},
-  { name = "dev.payment.amqp_password", value = "RoboShop@1"}
+  { name = "dev.payment.amqp_pass", value = "roboshop123"}
 
 
 
