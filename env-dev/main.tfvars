@@ -12,8 +12,19 @@ parameters = [
   { name = "dev.cart.redis_host", value = "redis-dev.naveendevops2.online"},
   { name = "dev.cart.catalogue_host", value = "catalogue-dev.naveendevops2.online"},
   { name = "dev.cart.catalogue_port", value = "8080"},
-  { name = "dev.user.mongo", value = "MONGO=true"}
-
+  { name = "dev.user.mongo", value = "MONGO=true"},
+  { name = "dev.shipping.cart_endpoint", value = "cart-dev.naveendevops2.online:8080"},
+  { name = "dev.shipping.DB_HOST", value = "mysql-dev.naveendevops2.online"},
+  { name = "dev.shipping.mysql", value = "mysql-dev.naveendevops2.online"},
+  { name = "dev.shipping.mysql_user", value = "root"},
+  { name = "dev.shipping.mysql.user_password", value = "RoboShop@1"},
+  { name = "dev.payment.cart_host", value = "cart-dev.naveendevops2.online"},
+  { name = "dev.payment.cart_port", value = "8080"},
+  { name = "dev.payment.user_host", value = "user-dev.naveendevops2.online"},
+  { name = "dev.payment.user_port", value = "8080"},
+  { name = "dev.payment.amqp_host", value = "rabbitmq-dev.naveendevops2.online"},
+  { name = "dev.payment.amqp_user", value = "roboshop"},
+  { name = "dev.payment.amqp_password", value = "RoboShop@1"}
 
 
 
