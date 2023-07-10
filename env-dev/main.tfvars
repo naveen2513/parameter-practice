@@ -22,7 +22,7 @@ parameters = [
   { name = "dev.payment.user_host", value = "user-dev.naveendevops2.online"},
   { name = "dev.payment.user_port", value = "8080"},
   { name = "dev.payment.amqp_host", value = "rabbitmq-dev.naveendevops2.online"},
-  { name = "dev.payment.amqp_user", value = "roboshop"},
+  { name = "dev.payment.amqp_user", value = "roboshop"}
 
 
 ]
