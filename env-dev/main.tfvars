@@ -25,7 +25,6 @@ parameters = [
   { name = "dev.payment.amqp_host", value = "rabbitmq-dev.naveendevops2.online"},
   { name = "dev.payment.amqp_user", value = "roboshop"}
 
-
 ]
 passwords = [
   { name = "dev.shipping.mysql.user_password", value = "RoboShop@1"},
